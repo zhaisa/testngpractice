@@ -1,53 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="10" passed="10">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="75" started-at="2019-01-20T08:48:23Z" finished-at="2019-01-20T08:48:23Z">
+  <suite name="Default suite" duration-ms="66" started-at="2020-10-21T06:13:04Z" finished-at="2020-10-21T06:13:04Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="75" started-at="2019-01-20T08:48:23Z" finished-at="2019-01-20T08:48:23Z">
-      <class name="invocationCountAndthreadPoolSize.TestMultipleThreads2">
-        <test-method status="PASS" signature="testThreadPools()[pri:0, instance:invocationCountAndthreadPoolSize.TestMultipleThreads2@e45f292]" name="testThreadPools" duration-ms="13" started-at="2019-01-20T16:48:23Z" finished-at="2019-01-20T16:48:23Z">
+    <test name="Default test" duration-ms="66" started-at="2020-10-21T06:13:04Z" finished-at="2020-10-21T06:13:04Z">
+      <class name="com.zhai1.testngdemo.TestHelloWorld">
+        <test-method status="PASS" signature="testEmailGenerator()[pri:0, instance:com.zhai1.testngdemo.TestHelloWorld@e45f292]" name="testEmailGenerator" duration-ms="33" started-at="2020-10-21T14:13:04Z" finished-at="2020-10-21T14:13:04Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testThreadPools -->
-        <test-method status="PASS" signature="testThreadPools()[pri:0, instance:invocationCountAndthreadPoolSize.TestMultipleThreads2@e45f292]" name="testThreadPools" duration-ms="12" started-at="2019-01-20T16:48:23Z" finished-at="2019-01-20T16:48:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testThreadPools -->
-        <test-method status="PASS" signature="testThreadPools()[pri:0, instance:invocationCountAndthreadPoolSize.TestMultipleThreads2@e45f292]" name="testThreadPools" duration-ms="13" started-at="2019-01-20T16:48:23Z" finished-at="2019-01-20T16:48:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testThreadPools -->
-        <test-method status="PASS" signature="testThreadPools()[pri:0, instance:invocationCountAndthreadPoolSize.TestMultipleThreads2@e45f292]" name="testThreadPools" duration-ms="4" started-at="2019-01-20T16:48:23Z" finished-at="2019-01-20T16:48:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testThreadPools -->
-        <test-method status="PASS" signature="testThreadPools()[pri:0, instance:invocationCountAndthreadPoolSize.TestMultipleThreads2@e45f292]" name="testThreadPools" duration-ms="2" started-at="2019-01-20T16:48:23Z" finished-at="2019-01-20T16:48:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testThreadPools -->
-        <test-method status="PASS" signature="testThreadPools()[pri:0, instance:invocationCountAndthreadPoolSize.TestMultipleThreads2@e45f292]" name="testThreadPools" duration-ms="5" started-at="2019-01-20T16:48:23Z" finished-at="2019-01-20T16:48:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testThreadPools -->
-        <test-method status="PASS" signature="testThreadPools()[pri:0, instance:invocationCountAndthreadPoolSize.TestMultipleThreads2@e45f292]" name="testThreadPools" duration-ms="16" started-at="2019-01-20T16:48:23Z" finished-at="2019-01-20T16:48:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testThreadPools -->
-        <test-method status="PASS" signature="testThreadPools()[pri:0, instance:invocationCountAndthreadPoolSize.TestMultipleThreads2@e45f292]" name="testThreadPools" duration-ms="6" started-at="2019-01-20T16:48:23Z" finished-at="2019-01-20T16:48:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testThreadPools -->
-        <test-method status="PASS" signature="testThreadPools()[pri:0, instance:invocationCountAndthreadPoolSize.TestMultipleThreads2@e45f292]" name="testThreadPools" duration-ms="12" started-at="2019-01-20T16:48:23Z" finished-at="2019-01-20T16:48:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testThreadPools -->
-        <test-method status="PASS" signature="testThreadPools()[pri:0, instance:invocationCountAndthreadPoolSize.TestMultipleThreads2@e45f292]" name="testThreadPools" duration-ms="4" started-at="2019-01-20T16:48:23Z" finished-at="2019-01-20T16:48:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testThreadPools -->
-      </class> <!-- invocationCountAndthreadPoolSize.TestMultipleThreads2 -->
+        </test-method> <!-- testEmailGenerator -->
+      </class> <!-- com.zhai1.testngdemo.TestHelloWorld -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

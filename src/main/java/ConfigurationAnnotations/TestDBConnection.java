@@ -2,7 +2,9 @@ package ConfigurationAnnotations;
 
 import org.testng.annotations.Test;
 
-public class TestDBConnection {
+import BaseTest.BaseTest;
+
+public class TestDBConnection extends BaseTest{
 	@Test
 	public void runOtherTest1() {
 		System.out.println("@Test - runOtherTest1");
